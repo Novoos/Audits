@@ -1,6 +1,4 @@
-# Audits
-
-# Introduction
+# Audits | Introduction
 
 Smart contract audits are essential for ensuring the security and reliability of blockchain-based applications. Auditing involves a comprehensive review of the code, functionality, and potential vulnerabilities within a smart contract. By conducting audits, developers and organizations can identify and mitigate risks, protect user funds, and maintain trust in the decentralized ecosystem. This summary provides an overview of the processes involved in smart contract audits and highlights several best practices followed by $NOVO.
 
